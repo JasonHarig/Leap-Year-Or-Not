@@ -14,4 +14,5 @@ else (it is a leap year)
 
 The algorithm applies to proleptic Gregorian calendar years before 1, but only if the year is expressed with astronomical year numbering. It is not valid for the BC or BCE notation. The algorithm is not necessarily valid for years in the Julian calendar, such as years before 1752 in the British Empire. The year 1700 was a leap year in the Julian calendar, but not in the Gregorian calendar."
 Read more here https://en.wikipedia.org/wiki/Leap_year
+
 For a more involved break down of the logic try reading this https://www.wikihow.com/Calculate-Leap-Years
